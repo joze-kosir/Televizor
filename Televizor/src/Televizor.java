@@ -11,7 +11,7 @@ public class Televizor {
 		
 		int tvProgram = 1;
 	
-		
+		// VERZIJA 2
 		//vnesemo šifro programa 
 		try {
 			System.out.print("Vnesite številko program od 1 do 5:");
